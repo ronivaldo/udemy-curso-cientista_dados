@@ -5,4 +5,5 @@ Udemy - Formação Cientista de Dados com R e Python
 
 Os capítulos podem ser acessados em formato Jupyter Notebooks:
 
-[01_Estatistica_I](01_Estatistica_I.ipynb) - Parte 1
+[01_Estatistica_I](01_Estatistica_I.ipynb)
+[02_Estatistica_II](02_Estatistica_II.ipynb)
