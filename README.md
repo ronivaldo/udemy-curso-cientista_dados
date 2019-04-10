@@ -12,3 +12,5 @@ Os capítulos podem ser acessados em formato Jupyter Notebooks:
 [03_Estatistica_III](03_Estatistica_III.ipynb)
 
 [04_Series Temporais](04_Series_Temporais.ipynb)
+
+[05_Machine_Learning](05_Machine_Learning.ipynb)
